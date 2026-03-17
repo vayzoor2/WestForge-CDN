@@ -12,6 +12,12 @@
         "sha1":  "e84e7053c4c3a73c7f608c9da516bb5d393aab60"
     },
     {
+        "url":  "https://raw.githubusercontent.com/vayzoor2/WestForge-CDN/main/launcher/mods/forge/citadel-2.6.3-1.20.1.jar",
+        "name":  "citadel-2.6.3-1.20.1.jar",
+        "size":  3185275,
+        "sha1":  "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316"
+    },
+    {
         "url":  "https://raw.githubusercontent.com/vayzoor2/WestForge-CDN/main/launcher/mods/forge/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
         "name":  "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
         "size":  1143788,
