@@ -52,5 +52,23 @@
         "sha1": "b195551d7f888ceec41d8b39643bc2d0ec38974e",
         "size": 3694330,
         "url": "https://raw.githubusercontent.com/vayzoor2/WestForge-CDN/main/launcher/mods/forge/WestForge-1.0.0.jar"
+    },
+    {
+        "name": "old_pvp-1.0.0-forge-1.20.1.jar",
+        "sha1": "2df5343080c97b9ca37803edf9b6e3c7ac27f517",
+        "size": 11444,
+        "url": "https://raw.githubusercontent.com/vayzoor2/WestForge-CDN/main/launcher/mods/forge/old_pvp-1.0.0-forge-1.20.1.jar"
+    },
+    {
+        "name": "OptiFine_1.20.1_HD_U_I6.jar",
+        "sha1": "227914ab1037762eae44a2e66a568b87d7a02365",
+        "size": 7145205,
+        "url": "https://raw.githubusercontent.com/vayzoor2/WestForge-CDN/main/launcher/mods/forge/OptiFine_1.20.1_HD_U_I6.jar"
+    },
+    {
+        "name": "SwordBlockingMechanics-v8.0.2-1.20.1-Forge.jar",
+        "sha1": "17aa770e19931ff14bd700788cacccba8061e783",
+        "size": 110938,
+        "url": "https://raw.githubusercontent.com/vayzoor2/WestForge-CDN/main/launcher/mods/forge/SwordBlockingMechanics-v8.0.2-1.20.1-Forge.jar"
     }
 ]
