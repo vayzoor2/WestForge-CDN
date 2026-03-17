@@ -70,5 +70,11 @@
         "sha1": "17aa770e19931ff14bd700788cacccba8061e783",
         "size": 110938,
         "url": "https://raw.githubusercontent.com/vayzoor2/WestForge-CDN/main/launcher/mods/forge/SwordBlockingMechanics-v8.0.2-1.20.1-Forge.jar"
+    },
+    {
+        "name": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+        "sha1": "285b7c7616971338ccbe0022c9ea0f8ad3036aaf",
+        "size": 1342987,
+        "url": "https://raw.githubusercontent.com/vayzoor2/WestForge-CDN/main/launcher/mods/forge/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
     }
 ]
